@@ -1,0 +1,2 @@
+# Preserve the exact bytes of the kernel-checked file and its published checksum.
+/SunCubicProof.lean -text
